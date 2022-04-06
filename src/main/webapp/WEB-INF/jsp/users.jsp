@@ -43,7 +43,7 @@
                             </div>
                         </form>
 
-                        </th>
+                        </td>
                 </tr>
             </c:forEach>
             <tr>
